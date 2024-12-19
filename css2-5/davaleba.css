@@ -78,6 +78,8 @@ a{
     margin-top: 100px;
     background-color: #F1E8FF;
     width: 100%;
+    padding-bottom: 8px;
+    margin-bottom: 100px;
 }
 
 /* mainHeader */
@@ -317,3 +319,21 @@ a{
     float: right;
 }
 /* maiinReviews */
+ #correction {
+    margin-bottom: 85px;
+ }
+ #MyOwnTest div:nth-child(2) {
+    background: #FFE5E5;
+ }
+ #MyOwnTest div:nth-child(3) {
+    background: #E9D7FF
+ }
+ #MyOwnTest div:nth-child(4){
+    background: #F7F4FF;
+ }
+ #MyOwnTest div:nth-child(5){
+    background: #DCE6FF;;
+ }
+ #MyOwnTest div:nth-child(6){
+    background: #FFD5E7;
+ }
